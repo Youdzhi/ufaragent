@@ -1,0 +1,16 @@
+.venv/
+venv/
+.env
+*.db
+__pycache__/
+*.py[cod]
+data/cache/*
+!data/cache/.gitkeep
+data/xlsx_preview.txt
+data/pdf_preview.txt
+data/pdf_blocks.txt
+data/pdf_tables.json
+.pytest_cache/
+*.egg-info/
+dist/
+build/
